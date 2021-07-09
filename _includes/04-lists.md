@@ -1,0 +1,7 @@
+- Sports
+  -    Yankees
+  -    Islanders
+  -    Giants
+- Food
+  -   Italian
+  -   Mexican
